@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoOp_ServerBrowser", "CoOp_ServerBrowser\CoOp_ServerBrowser.csproj", "{558EBBD3-85E9-4544-B64A-73B195103AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558EBBD3-85E9-4544-B64A-73B195103AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558EBBD3-85E9-4544-B64A-73B195103AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558EBBD3-85E9-4544-B64A-73B195103AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558EBBD3-85E9-4544-B64A-73B195103AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
