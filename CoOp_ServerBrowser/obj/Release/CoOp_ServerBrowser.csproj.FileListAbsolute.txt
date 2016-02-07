@@ -1,0 +1,12 @@
+C:\Users\Ignacio\Documents\Visual Studio 2012\Projects\CoOp_ServerBrowser\CoOp_ServerBrowser\bin\Release\CoOp_ServerBrowser.exe.config
+C:\Users\Ignacio\Documents\Visual Studio 2012\Projects\CoOp_ServerBrowser\CoOp_ServerBrowser\bin\Release\CoOp_ServerBrowser.exe
+C:\Users\Ignacio\Documents\Visual Studio 2012\Projects\CoOp_ServerBrowser\CoOp_ServerBrowser\bin\Release\CoOp_ServerBrowser.pdb
+C:\Users\Ignacio\Documents\Visual Studio 2012\Projects\CoOp_ServerBrowser\CoOp_ServerBrowser\bin\Release\Lidgren.Network.dll
+C:\Users\Ignacio\Documents\Visual Studio 2012\Projects\CoOp_ServerBrowser\CoOp_ServerBrowser\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ignacio\Documents\Visual Studio 2012\Projects\CoOp_ServerBrowser\CoOp_ServerBrowser\bin\Release\protobuf-net.dll
+C:\Users\Ignacio\Documents\Visual Studio 2012\Projects\CoOp_ServerBrowser\CoOp_ServerBrowser\obj\Release\CoOp_ServerBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Documents\Visual Studio 2012\Projects\CoOp_ServerBrowser\CoOp_ServerBrowser\obj\Release\CoOp_ServerBrowser.Form1.resources
+C:\Users\Ignacio\Documents\Visual Studio 2012\Projects\CoOp_ServerBrowser\CoOp_ServerBrowser\obj\Release\CoOp_ServerBrowser.Properties.Resources.resources
+C:\Users\Ignacio\Documents\Visual Studio 2012\Projects\CoOp_ServerBrowser\CoOp_ServerBrowser\obj\Release\CoOp_ServerBrowser.csproj.GenerateResource.Cache
+C:\Users\Ignacio\Documents\Visual Studio 2012\Projects\CoOp_ServerBrowser\CoOp_ServerBrowser\obj\Release\CoOp_ServerBrowser.exe
+C:\Users\Ignacio\Documents\Visual Studio 2012\Projects\CoOp_ServerBrowser\CoOp_ServerBrowser\obj\Release\CoOp_ServerBrowser.pdb

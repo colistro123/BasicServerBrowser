@@ -60,9 +60,10 @@ namespace CoOp_ServerBrowser
                     string[] spl = value.Split(':');
                     short.TryParse(spl[1], out port);
                     CL_API.DiscoverPeer(CL_API.peer, spl[0], port);
+                    Thread.Sleep(1);
                 }
                 CL_API.lastrefresh = CL_API.GetCurrentTime();
-                Thread.Sleep(2000);
+                Thread.Sleep(1000);
                 Application.DoEvents();
                 populateListGUI();
             }
